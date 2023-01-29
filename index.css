@@ -4,6 +4,7 @@ p.round3 {
 -moz-border-radius: 34px 34px 34px 34px;
 background: #929292;
 width: 150px;
+padding: 5px;
 border: 6px solid #515151;
 }
 img.rounded-corners {
