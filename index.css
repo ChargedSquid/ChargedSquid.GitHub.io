@@ -5,3 +5,6 @@ p.round3 {
 background: #929292;
 border: 6px solid #515151;
 }
+img.rounded-corners {
+  border-radius: 30px;
+}
